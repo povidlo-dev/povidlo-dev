@@ -9,5 +9,8 @@ Beginner/Junior level python developer from Moscow. I make django websites in fr
   * djangorestframework
   * FastApi
 * JavaScript
+  * React
 * HTML
 * CSS
+  * TailwindCSS
+  * Bootstrap
