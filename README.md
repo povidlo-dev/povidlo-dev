@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am povidlo-dev 
 
-<!--
-**povidlo-dev/povidlo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Beginner/Junior level python developer from Moscow. I make django websites in free time. That's fun
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and frameworks I use in my projects:
+* Python
+  * Django
+  * djangorestframework
+  * FastApi
+* JavaScript
+* HTML
+* CSS
