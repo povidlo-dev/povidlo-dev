@@ -2,15 +2,3 @@
 
 ### About me
 Beginner/Junior level python developer from Moscow. I make django websites in free time. That's fun
-
-### Languages and frameworks I use in my projects:
-* Python
-  * Django
-  * djangorestframework
-  * FastApi
-* JavaScript
-  * React
-* HTML
-* CSS
-  * TailwindCSS
-  * Bootstrap
